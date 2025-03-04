@@ -1,0 +1,60 @@
+INFO:root:2025-03-04 20:59:28 - INFO - Valid expression: 2 + 3 * (5 + 5)
+INFO:root:2025-03-04 20:59:28 - INFO - Result of the expression is: 50.0
+INFO:root:2025-03-04 20:59:28 - INFO - Exiting program
+INFO:root:2025-03-04 20:59:47 - INFO - Valid expression: 2 + 3 / (5+5)
+INFO:root:2025-03-04 20:59:47 - INFO - Result of the expression is: 0.15384615384615385
+INFO:root:2025-03-04 20:59:47 - INFO - Exiting program
+INFO:root:2025-03-04 21:00:41 - INFO - Valid expression: 2+3/10
+INFO:root:2025-03-04 21:00:41 - INFO - Result of the expression is: 2.0
+INFO:root:2025-03-04 21:00:41 - INFO - Exiting program
+INFO:root:2025-03-04 21:00:52 - INFO - Valid expression: 2+3
+INFO:root:2025-03-04 21:00:52 - INFO - Result of the expression is: 5.0
+INFO:root:2025-03-04 21:00:52 - INFO - Exiting program
+INFO:root:2025-03-04 21:01:07 - INFO - Valid expression: 1+1
+INFO:root:2025-03-04 21:01:07 - INFO - Result of the expression is: 2.0
+INFO:root:2025-03-04 21:01:07 - INFO - Exiting program
+INFO:root:2025-03-04 21:02:00 - INFO - Valid expression: 5/10
+INFO:root:2025-03-04 21:02:00 - INFO - Result of the expression is: 5.0
+INFO:root:2025-03-04 21:02:00 - INFO - Exiting program
+INFO:root:2025-03-04 21:06:21 - INFO - Valid expression: 5 / 10
+INFO:root:2025-03-04 21:06:21 - INFO - Result of the expression is: 0.5
+INFO:root:2025-03-04 21:06:21 - INFO - Exiting program
+INFO:root:2025-03-04 21:06:47 - INFO - Valid expression: 5 / 10
+INFO:root:2025-03-04 21:06:47 - INFO - Result of the expression is: 0.5
+INFO:root:2025-03-04 21:06:47 - INFO - Exiting program
+INFO:root:2025-03-04 21:08:15 - INFO - Valid expression: 77 / ( 2 * 97 )
+INFO:root:2025-03-04 21:08:15 - INFO - Result of the expression is: 0.39690721649484534
+INFO:root:2025-03-04 21:08:15 - INFO - Exiting program
+INFO:root:2025-03-04 21:15:50 - INFO - Valid expression: 77 / (2 * 97)
+INFO:root:2025-03-04 21:15:50 - INFO - Result of the expression is: 3734.5
+INFO:root:2025-03-04 21:15:50 - INFO - Exiting program
+INFO:root:2025-03-04 21:18:15 - INFO - Valid expression: 77 / (2 * 97)
+INFO:root:2025-03-04 21:18:15 - INFO - Result of the expression is: 3734.5
+INFO:root:2025-03-04 21:18:15 - INFO - Exiting program
+INFO:root:2025-03-04 21:18:39 - INFO - Valid expression: 77 / (2 * 97)
+INFO:root:2025-03-04 21:18:39 - INFO - Result of the expression is: 3734.5
+INFO:root:2025-03-04 21:18:39 - INFO - Exiting program
+INFO:root:2025-03-04 21:19:36 - INFO - Valid expression: 77 / ( 2 * 97 )
+INFO:root:2025-03-04 21:19:36 - INFO - Result of the expression is: 0.39690721649484534
+INFO:root:2025-03-04 21:19:36 - INFO - Exiting program
+INFO:root:2025-03-04 21:20:18 - INFO - Valid expression: 77 / ( 2 * 97 )
+INFO:root:2025-03-04 21:20:18 - INFO - Result of the expression is: 3734.5
+INFO:root:2025-03-04 21:20:18 - INFO - Exiting program
+INFO:root:2025-03-04 21:21:10 - INFO - Valid expression: 77 / ( 2 * 97 )
+INFO:root:2025-03-04 21:21:10 - INFO - Result of the expression is: 3734.5
+INFO:root:2025-03-04 21:21:10 - INFO - Exiting program
+INFO:root:2025-03-04 21:21:36 - INFO - Valid expression: 77 / ( 2 * 97 )
+INFO:root:2025-03-04 21:21:36 - INFO - Result of the expression is: 3734.5
+INFO:root:2025-03-04 21:21:36 - INFO - Exiting program
+INFO:root:2025-03-04 21:22:04 - INFO - Valid expression: 77 / ( 2 * 97 )
+INFO:root:2025-03-04 21:22:04 - INFO - Result of the expression is: 0.39690721649484534
+INFO:root:2025-03-04 21:22:04 - INFO - Exiting program
+INFO:root:2025-03-04 21:24:18 - INFO - Valid expression: 77 / (2 * 97)
+INFO:root:2025-03-04 21:24:18 - INFO - Result of the expression is: 0.39690721649484534
+INFO:root:2025-03-04 21:24:18 - INFO - Exiting program
+INFO:root:2025-03-04 21:25:04 - INFO - Valid expression: 2 + 3 * (4 - 1)
+INFO:root:2025-03-04 21:25:04 - INFO - Result of the expression is: 15.0
+INFO:root:2025-03-04 21:25:04 - INFO - Exiting program
+INFO:root:2025-03-04 21:47:00 - INFO - Valid expression: 2 + 3 * (4 - 1)
+INFO:root:2025-03-04 21:47:00 - INFO - Result of the expression is: 15.0
+INFO:root:2025-03-04 21:47:00 - INFO - Exiting program
